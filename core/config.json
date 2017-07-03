@@ -1,0 +1,27 @@
+{
+  "canvas": {
+    "prod": "https://<YOUR SUBDOMAIN>.instructure.com/api/v1/",
+    "test": "https://<YOUR SUBDOMAIN>.test.instructure.com/api/v1/",
+    "beta": "https://<YOUR SUBDOMAIN>.beta.instructure.com/api/v1/",
+    "token": "<API TOKEN>"
+    "root_account": "<YOUR ROOT ACCOUNT>",
+    "academic_account": "<YOUR TOP-LEVEL ACADEMIC ACCOUNT>"
+  },
+  "cmi": {
+    "host": "<HOST>",
+    "user": "<USER>",
+    "pw": "<PASSWORD>",
+    "db": "<DB>"
+  },
+  "powercampus": {
+    "connection_string": "DRIVER={SQL Server};SERVER=POWERCAMPUS2;DATABASE=CAMPUS6;Trusted_Connection=yes"
+  },
+  "directories": {
+    "output_dir": "<OUTPUT DIRECTORY>",
+    "sql_dir": "<SQL DIRECTORY>"
+  },
+  "aws": {
+    "aws_access_key_id": "<AWS ACCESS KEY>",
+    "aws_secret_access_key": "<AWS SECRET KEY>"
+  }
+}
