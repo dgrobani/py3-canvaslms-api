@@ -1,5 +1,5 @@
 # py3_canvaslmi_api
-Python implementation of a REST API wrapper for Instructure's Canvas LMS and real-life examples of use
+Python implementation of a REST API wrapper for Instructure's Canvas LMS with real-life examples of use
 
 Simplifies tasks and reporting involving terms, subaccounts, courses, assignments, users, and outcomes.
 
