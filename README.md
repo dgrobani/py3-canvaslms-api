@@ -13,6 +13,7 @@ All other directories contain scripts using the core functions to accomplish tas
 * Sync course-level learning outcomes with subaccount-level outcomes.
 * Import outcomes into a course from a formatted Word document.
 * List assignments that use the Turnitin API.
+* Retrieve an SIS report.
 * Do an SIS import on a CSV file of enrollments created by running a SQL file against the SIS.
 * Assist in assessing Canvas course design best practices by generating an inventory of courses and the Canvas features they use.
 * Find and replace text in Canvas pages.
