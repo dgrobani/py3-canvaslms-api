@@ -5,4 +5,6 @@ Simplifies tasks and reporting involving assignments, courses, enrollments, outc
 
 Also includes functions that simplify performing SIS imports and exports, querying databases, and working with CSV and XSLX files.
 
-NOTE: The scripts containing the API wrapper functions are in the "core" directory. All other directories contain scripts using the core functions to accomplish tasks.
+The "core" directory contains the scripts that the API wrapper functions are in, as well as config.json, which you'll need to edit to match your environment. (You might also need to edit config.py). 
+
+All other directories contain scripts using the core functions to accomplish tasks.
