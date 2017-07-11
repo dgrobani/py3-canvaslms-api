@@ -19,3 +19,4 @@ All other directories contain scripts using the core functions to accomplish tas
 * Find and replace text in Canvas pages.
 * List all cross-listed courses.
 * List admins at the account and subaccount level.
+*	Download all syllabus files.
