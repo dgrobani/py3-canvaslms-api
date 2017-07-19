@@ -12,6 +12,8 @@ All other directories contain scripts using the core functions to accomplish tas
 * Sync subaccount-level learning outcomes with outcomes in an external repository.
 * Sync course-level learning outcomes with subaccount-level outcomes.
 * Import outcomes into a course from a formatted Word document.
+* Generate a syllabus for a course by wrangling data from Canvas, a SIS, and a learning outcomes repository into a Word template.
+*	Download all syllabus files.
 * List assignments that use the Turnitin API.
 * Retrieve an SIS report.
 * Do an SIS import on a CSV file of enrollments created by running a SQL file against the SIS.
@@ -19,4 +21,3 @@ All other directories contain scripts using the core functions to accomplish tas
 * Find and replace text in Canvas pages.
 * List all cross-listed courses.
 * List admins at the account and subaccount level.
-*	Download all syllabus files.
